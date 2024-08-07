@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @igiu-dum
 - 👀 I’m interested in computer, Cyber ​​security and os systems 
-- 🌱 I’m currently learning tml,ssc and java script
+- 🌱 I’m currently learning tml,css and java script
 - 💞️ I’m looking to collaborate on anything tbh
 - 📫 How to reach me insta :giu.pie
 - 😄 Pronouns: she/her
